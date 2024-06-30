@@ -1,24 +1,24 @@
 # Pricelist
 ```1 Month / Bulan```
-> 1 ip = $2 / 15k
+> 1 ip = $0.50
 
-> 3 ip = $4 / 40k
+> 3 ip = $1.50
 
-> 5 ip = $6 / 60k
+> 5 ip = $2
 
 ```Lifetime```
-> 1 ip = $6 / 60k
+> 1 ip = $6
 
-> 3 ip = $9 / 90k
+> 3 ip = $9
 
-> 5 ip = $12 / 120k
+> 5 ip = $12
 # Contact
-``https://t.me/user_legend``
+``https://t.me/CrakenYT``
 
 # Os Support
-> ubuntu 18.04 or higher
+> ubuntu 18.04 or 24.04
 > 
-> debian 10 or higher
+> debian 10 or 12
 
 # list default port
 |```   Services    ```|```   PORT   ```|
