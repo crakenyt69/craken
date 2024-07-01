@@ -99,8 +99,8 @@
 
 ***ETC***
 
-![20231212_231347](https://github.com/willstore69/autoscript/assets/107354006/93f69b13-28c6-4d1b-9d6b-ff9403a5ca1e)
-![20231212_231349](https://github.com/willstore69/autoscript/assets/107354006/66fdb29a-a10b-4a37-a1b2-55e78692644e)
+![20231212_231347](https://github.com/crakenyt69/img/blob/main/autocs.png)
+![20231212_231349](https://github.com/crakenyt69/img/blob/main/autocs2.png)
 
 
 # Setup Your Own IP
