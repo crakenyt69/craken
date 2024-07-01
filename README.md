@@ -108,4 +108,4 @@
 *If you are interested in unlimited IP and lifetime, you can register your own IP without waiting for me*
 
 for more information see
-```https://github.com/willstore69/scvps-resseler-bot```
+```https://github.com/crakenyt69/scvps-resseler-bot```
